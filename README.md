@@ -128,9 +128,6 @@ The application can be deployed on various platforms:
 - Backend: Render, Heroku, or Railway
 - Database: MongoDB Atlas
 
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 👥 Contributing
 
