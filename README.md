@@ -1,4 +1,4 @@
-# WeTawk-Full Stack Realtime Chat Application ✨
+# WeTawk - Full Stack Realtime Chat Application ✨
 
 A modern, real-time chat application built with the MERN stack (MongoDB, Express.js, React.js, Node.js) featuring real-time messaging, user authentication, and a beautiful UI.
 
